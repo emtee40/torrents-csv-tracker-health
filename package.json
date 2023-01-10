@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://codeberg.org/heretic/torrent-tracker-health.git"
+    "url": "https://git.torrents-csv.ml/heretic/torrent-tracker-health.git"
   },
   "license": "MIT",
   "maintainers": [
